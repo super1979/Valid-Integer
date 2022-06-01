@@ -1,5 +1,3 @@
-# Name: Tay How Yang Gilbert 
-# Student ID: 10512374
 #!/bin/bash
 
 # while loop to repeat the input process until the user enters a valid value
